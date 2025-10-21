@@ -7,7 +7,17 @@
 --------------------------------
 Doesnt work for some games.
 --------------------------------
-Flash games at 6:00
+Flash games
+1.in github make a new repsository and name it whatever then go to a flash games website i will use papas pezzeria
+2. go to inspect and go to the network tab (if it does not show go to the 2 >>) then in filter type swf then reload the page
+3. then you should find an swf right click it and open in a new tab once its downloaded go to github and click on add file then put the swf
+4.then go to settings and go to pages and and scroll down untill you see branch and switch none to main and then click save
+5. click on the swf file in github click the copy icon by the name then go back to Settings>Pages click on the link by "your site is live at"
+6. You Should get a page and it says 404 at the top click on the URL bar and at the end of the url paste the thing you copied then copy the URL
+7.Get the code from the "Embed code Ruffle Flash" then go to google sites and make a new game page and go to insert tab
+8. click on embed paste the code from "Embed code Ruffle Flash" then you should see a line that looks like this "player.load("your-file-name.swf");"
+9. change inside the quotaion marks to the URL you copied then click next and insert it should load.
+10. done!!!!!!!!!
 --------------------------------
 Scratch games
 1. go to turbo warp and find a game then Copy the url this is an example"https://turbowarp.org/869264071/embed" (copy that for mc if you want)

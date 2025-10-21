@@ -1,0 +1,15 @@
+1. For web games: go to the game you would like to embed (i will use snow rider) when your on the game click F12 or control+shift+i or right click inspect
+2. when your on inspect click a button that looks like a box with an arrow at the top left corner and hover your mouse over the game then click on the game
+3. then on inspect it should show canvas element and scroll up until you find Iframe and right click copy>copy Element or if that doesnt work somewhere above Iframe there is a HTML Element
+4. now right click copy>copy Element and go back to google sites and make a new page with the name of the game you want to add then go to insert tab and click Embed
+5. now go to the "Embed code" tab and where is says "<HTML> code goes here" paste in the iframe or the HTML code and click next then click insert.
+6. your DONE!!!!!!!!!!!!!!🔥
+--------------------------------
+Doesnt work for some games.
+--------------------------------
+Flash games at 6:00
+--------------------------------
+Scratch games
+1. go to turbo warp and find a game then Copy the url this is an example"https://turbowarp.org/869264071/embed" (copy that for mc if you want)
+then go to google sites and make a new page then click embed on the insert tab do By URL and paste in the games url  Example: https://turbowarp.org/869264071/embed then click next then insert 
+DONE!.
